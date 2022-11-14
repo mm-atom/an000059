@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000059",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "过滤错误查询条件",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
@@ -44,7 +44,7 @@
 		"access": "public",
 		"registry": "https://registry.npmjs.com"
 	},
-	"dependencies": { },
+	"dependencies": {},
 	"devDependencies": {
 		"@types/node": "latest",
 		"@typescript-eslint/eslint-plugin": "latest",
