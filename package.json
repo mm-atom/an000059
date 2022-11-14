@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/an000059",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"description": "过滤错误查询条件",
 	"scripts": {
 		"test": "tsc && ava ./tests/*.js",
